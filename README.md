@@ -2,3 +2,5 @@
 
 - 🔭 I’m currently working on some web dev shenanigans
 - 🌱 I’m currently learning JS, Docker
+
+<img src="./img/meme.png"/>
