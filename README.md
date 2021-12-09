@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There...
 
 - 🏫 I'm currently studying as a Senior at Cedarville University (Class of 2022)
 - 🔭 I’m currently working on some web dev shenanigans
